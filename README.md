@@ -32,6 +32,6 @@ Dataset link: Aerofit_treadmill.csv (https://d2beiqkhq929f0.cloudfront.net/publi
 - Miles:	The average number of miles the customer expects to walk/run each week
 
 **Product Portfolio:**
-The KP281 is an entry-level treadmill that sells for $1,500.
-The KP481 is for mid-level runners that sell for $1,750.
-The KP781 treadmill is having advanced features that sell for $2,500.
+- The KP281 is an entry-level treadmill that sells for $1,500.
+- The KP481 is for mid-level runners that sell for $1,750.
+- The KP781 treadmill is having advanced features that sell for $2,500.
